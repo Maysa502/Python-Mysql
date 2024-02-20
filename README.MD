@@ -2,7 +2,7 @@
 
 !["Imagem Python com MySQL"](https://www.learntek.org/blog/wp-content/uploads/2019/06/Mysql-python.png)
 
-## Divre de comunicação com o mysql
+## Drive de comunicação com o mysql
 Para estabelecer a comunicação entre o Python e o banco Mysql, iremos usar o seguinte drive:
 <a href="https://pypi.org/project/mysql-connector-python/#history">https://pypi.org/project/mysql-connector-python/#history</a>
 
